@@ -1,1 +1,4 @@
 this file in master branch
+this is a file that for prvcticing git merge and deal with conflict
+
+after resolving conflict 
