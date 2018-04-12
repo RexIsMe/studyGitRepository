@@ -1,0 +1,1 @@
+this is a file that for prvcticing git merge and deal with conflict
